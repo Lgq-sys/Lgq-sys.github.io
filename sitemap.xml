@@ -58,7 +58,7 @@
 
   <url>
     <loc>https://lgq-sys.github.io/</loc>
-    <lastmod>2023-03-03</lastmod>
+    <lastmod>2023-03-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,14 +66,14 @@
   
   <url>
     <loc>https://lgq-sys.github.io/tags/node-js/</loc>
-    <lastmod>2023-03-03</lastmod>
+    <lastmod>2023-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lgq-sys.github.io/tags/hexo/</loc>
-    <lastmod>2023-03-03</lastmod>
+    <lastmod>2023-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -82,7 +82,7 @@
   
   <url>
     <loc>https://lgq-sys.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-03-03</lastmod>
+    <lastmod>2023-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
