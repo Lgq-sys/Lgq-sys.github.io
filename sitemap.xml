@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://hexo.lgqyun.cn/posts/4a17b156.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hexo.lgqyun.cn/tags/index.html</loc>
     
     <lastmod>2023-03-03</lastmod>
@@ -47,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://hexo.lgqyun.cn/posts/4a17b156.html</loc>
-    
-    <lastmod>2023-03-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hexo.lgqyun.cn/Gallery/index.html</loc>
     
     <lastmod>2023-03-03</lastmod>
@@ -74,6 +74,13 @@
 
   
   <url>
+    <loc>https://hexo.lgqyun.cn/tags/node-js/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hexo.lgqyun.cn/tags/hexo/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -81,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://hexo.lgqyun.cn/tags/node-js/</loc>
+    <loc>https://hexo.lgqyun.cn/tags/butterfly/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
