@@ -1,3 +1,5 @@
+https://hexo.lgqyun.cn/posts/b9048e90.html
+https://hexo.lgqyun.cn/music/index.html
 https://hexo.lgqyun.cn/posts/d87f7e0c.html
 https://hexo.lgqyun.cn/posts/4a17b156.html
 https://hexo.lgqyun.cn/tags/index.html
@@ -7,6 +9,8 @@ https://hexo.lgqyun.cn/categories/index.html
 https://hexo.lgqyun.cn/Gallery/index.html
 https://hexo.lgqyun.cn/
 https://hexo.lgqyun.cn/tags/node-js/
-https://hexo.lgqyun.cn/tags/hexo/
 https://hexo.lgqyun.cn/tags/butterfly/
+https://hexo.lgqyun.cn/tags/music/
+https://hexo.lgqyun.cn/tags/Aplayer/
+https://hexo.lgqyun.cn/tags/hexo/
 https://hexo.lgqyun.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
