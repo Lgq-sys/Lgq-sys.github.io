@@ -156,13 +156,6 @@
   </url>
   
   <url>
-    <loc>https://hexo.lgqyun.cn/tags/node-js/</loc>
-    <lastmod>2023-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hexo.lgqyun.cn/tags/Github/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -184,7 +177,7 @@
   </url>
   
   <url>
-    <loc>https://hexo.lgqyun.cn/tags/movies/</loc>
+    <loc>https://hexo.lgqyun.cn/tags/node-js/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -192,6 +185,13 @@
   
   <url>
     <loc>https://hexo.lgqyun.cn/tags/clustrmaps/</loc>
+    <lastmod>2023-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.lgqyun.cn/tags/movies/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
