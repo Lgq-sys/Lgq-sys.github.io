@@ -11,6 +11,42 @@
   </url>
   
   <url>
+    <loc>https://hexo.lgqyun.cn/live2d-widget/waifu-tips.json</loc>
+    
+    <lastmod>2023-03-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.lgqyun.cn/live2d-widget/package.json</loc>
+    
+    <lastmod>2023-03-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.lgqyun.cn/live2d-widget/demo/login.html</loc>
+    
+    <lastmod>2023-03-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.lgqyun.cn/live2d-widget/demo/demo.html</loc>
+    
+    <lastmod>2023-03-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hexo.lgqyun.cn/posts/b9048e90.html</loc>
     
     <lastmod>2023-03-11</lastmod>
@@ -174,13 +210,6 @@
   </url>
   
   <url>
-    <loc>https://hexo.lgqyun.cn/tags/DDOS/</loc>
-    <lastmod>2023-03-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hexo.lgqyun.cn/tags/Github/</loc>
     <lastmod>2023-03-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -189,6 +218,20 @@
   
   <url>
     <loc>https://hexo.lgqyun.cn/tags/CDN/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.lgqyun.cn/tags/DDOS/</loc>
+    <lastmod>2023-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.lgqyun.cn/tags/Live2d/</loc>
     <lastmod>2023-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -209,13 +252,6 @@
   </url>
   
   <url>
-    <loc>https://hexo.lgqyun.cn/tags/clustrmaps/</loc>
-    <lastmod>2023-03-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hexo.lgqyun.cn/tags/movies/</loc>
     <lastmod>2023-03-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -223,7 +259,7 @@
   </url>
   
   <url>
-    <loc>https://hexo.lgqyun.cn/tags/Live2d/</loc>
+    <loc>https://hexo.lgqyun.cn/tags/clustrmaps/</loc>
     <lastmod>2023-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
