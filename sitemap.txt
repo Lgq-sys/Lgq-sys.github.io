@@ -1,6 +1,6 @@
+http://example.com/Gallery/index.html
 http://example.com/resources/json-data/link.json
 http://example.com/link/index.html
-http://example.com/Gallery/index.html
 http://example.com/posts/d87f7e0c.html
 http://example.com/posts/4a17b156.html
 http://example.com/categories/index.html
@@ -24,7 +24,7 @@ http://example.com/tags/DDOS/
 http://example.com/tags/Live2d/
 http://example.com/tags/node-js/
 http://example.com/tags/%E7%BC%96%E7%A8%8B/
-http://example.com/tags/clustrmaps/
 http://example.com/tags/movies/
+http://example.com/tags/clustrmaps/
 http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
 http://example.com/categories/%E9%9A%8F%E7%AC%94/
